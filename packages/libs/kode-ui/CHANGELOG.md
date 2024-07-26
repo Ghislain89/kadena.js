@@ -1,5 +1,11 @@
 # @kadena/kode-ui
 
+## 0.14.0
+
+### Minor Changes
+
+- df12c9a: Storybook brand updates
+
 ## 0.13.0
 
 ### Minor Changes
